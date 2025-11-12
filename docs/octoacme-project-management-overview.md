@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Additional Specialized Roles
+- UX/UI Designer: crafts user experiences and visual designs.
+- Data Analyst: analyzes data for informed decision-making.
+- Security Lead: oversees application and data security.
+- Customer Support Lead: represents end-user needs and feedback.
+- Release Manager: coordinates release timelines and deployment processes.
+- Business Analyst: clarifies requirements and translates business needs.
+
+For detailed responsibilities and collaboration points, see [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
